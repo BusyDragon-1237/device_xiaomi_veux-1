@@ -393,9 +393,10 @@
 
     <!-- Indicate available ColorDisplayManager.COLOR_MODE_xxx. -->
     <integer-array name="config_availableColorModes">
-        <item>258</item> <!-- vivid -->
-        <item>256</item> <!-- saturated -->
         <item>257</item> <!-- original -->
+        <item>256</item> <!-- saturated -->
+        <item>258</item> <!-- vivid -->
+        
     </integer-array>
 
    <!-- Vibrator pattern for feedback about a long screen/key press -->
